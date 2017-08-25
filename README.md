@@ -1,2 +1,3 @@
 # sitOnChair
-Warsztat 1 - Sit on chair
+
+Przykladowy projek z warsztatów **Coders Lab**
