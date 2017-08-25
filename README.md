@@ -1,3 +1,3 @@
-# sitOnChair
+# sitonchair2
 
-Przykladowy projek z warsztatów **Coders Lab**
+Przykładowy projekt z warsztatów **CodersLab**
